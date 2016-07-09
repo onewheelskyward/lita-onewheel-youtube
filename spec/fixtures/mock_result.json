@@ -1,0 +1,373 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - google",
+        "totalResults": "586000000",
+        "searchTerms": "google",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "medium",
+        "cx": "016450909327860943906:3a3e35xbkzu"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - google",
+        "totalResults": "586000000",
+        "searchTerms": "google",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "medium",
+        "cx": "016450909327860943906:3a3e35xbkzu"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.379835,
+    "formattedSearchTime": "0.38",
+    "totalResults": "586000000",
+    "formattedTotalResults": "586,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Google",
+      "htmlTitle": "<b>Google</b>",
+      "link": "https://www.google.com/",
+      "displayLink": "www.google.com",
+      "snippet": "Search the world's information, including webpages, images, videos and more. \nGoogle has many special features to help you find exactly what you're looking ...",
+      "htmlSnippet": "Search the world&#39;s information, including webpages, images, videos and more. <br>\n<b>Google</b> has many special features to help you find exactly what you&#39;re looking&nbsp;...",
+      "cacheId": "y14FcUQOGl4J",
+        "formattedUrl": "https://www.google.com/",
+      "htmlFormattedUrl": "https://www.<b>google</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "217",
+            "height": "73",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDjB4zxWMGFPE5Ufxh9imLrO9Y6hBgfEIW10yzopUjieRByDBCHPOhoRg"
+          }
+        ],
+        "webpage": [
+          {
+            "image": "/images/branding/googleg/1x/googleg_standard_color_128dp.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google News",
+      "htmlTitle": "<b>Google</b> News",
+      "link": "https://news.google.com/",
+      "displayLink": "news.google.com",
+      "snippet": "Comprehensive up-to-date news coverage, aggregated from sources all over the \nworld by Google News.",
+      "htmlSnippet": "Comprehensive up-to-date news coverage, aggregated from sources all over the <br>\nworld by <b>Google</b> News.",
+      "cacheId": "ozdoT-F6oa4J",
+      "formattedUrl": "https://news.google.com/",
+      "htmlFormattedUrl": "https://news.<b>google</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "96",
+            "height": "72",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpo2Q2fCHk43-ryr66t_hh3LvBIabbJKhYe6vbdOezoG0_HtgXKS8i"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=913753848",
+            "referrer": "origin"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/9LE9BFf42dY/default.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Drive - Cloud Storage & File Backup for Photos, Docs & More",
+      "htmlTitle": "<b>Google</b> Drive - Cloud Storage &amp; File Backup for Photos, Docs &amp; More",
+      "link": "https://www.google.com/drive/",
+      "displayLink": "www.google.com",
+      "snippet": "Get access to files anywhere through secure cloud storage and file backup for \nyour photos, videos, files and more with Google Drive.",
+      "htmlSnippet": "Get access to files anywhere through secure cloud storage and file backup for <br>\nyour photos, videos, files and more with <b>Google</b> Drive.",
+      "cacheId": "uqmo4lUVIlEJ",
+      "formattedUrl": "https://www.google.com/drive/",
+      "htmlFormattedUrl": "https://www.<b>google</b>.com/drive/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "143",
+            "height": "124",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_lKvopIHhL6rRhr8y1qrRGy2KB48ew42YUVxVdJ7f_g7kuq2jocJyvBU"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "og:title": "Google Drive - Cloud Storage & File Backup for Photos, Docs & More",
+            "og:image": "//www.google.com/drive/images/drive/logo-drive.png",
+            "og:description": "Get access to files anywhere through secure cloud storage and file backup for your photos, videos, files and more with Google Drive.",
+            "og:type": "website",
+            "msvalidate.01": "D93199779C0B5EE436644DE888FCC272",
+            "og:url": "https://www.google.com/drive/",
+            "twitter:card": "summary",
+            "twitter:url": "https://www.google.com/drive/",
+            "twitter:title": "Meet Google Drive – One place for all your files",
+            "twitter:image": "http://www.google.com/drive/images/drive/logo-drive.png",
+            "twitter:description": "Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.",
+            "twitter:creator": "@google"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/drive/images/drive/logo-drive.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Maps",
+      "htmlTitle": "<b>Google</b> Maps",
+      "link": "https://maps.google.com/",
+      "displayLink": "maps.google.com",
+      "snippet": "Find local businesses, view maps and get driving directions in Google Maps.",
+      "htmlSnippet": "Find local businesses, view maps and get driving directions in <b>Google</b> Maps.",
+      "cacheId": "SK7Wkfiy_5IJ",
+      "formattedUrl": "https://maps.google.com/",
+      "htmlFormattedUrl": "https://maps.<b>google</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "79",
+            "height": "79",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTnonf_3aqokUadTh2YgBIuuXOeWCqwITHrCXiT1wkStRX8x1RDnJGJg"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "google": "notranslate",
+            "referrer": "origin",
+            "og:title": "Google Maps",
+            "og:image": "https://maps.google.com/maps/api/staticmap?sensor=false&center=37.599999999999994%2C-95.665&zoom=4&size=256x256&language=en&client=google-maps-frontend&signature=ZHy6QGfQalhVZH-bZ4_LhChJzpg",
+            "og:description": "Find local businesses, view maps and get driving directions in Google Maps.",
+            "og:site_name": "Google Maps",
+            "twitter:card": "summary"
+          }
+        ],
+        "place": [
+          {
+            "name": "Google Maps",
+            "image": "https://maps.google.com/maps/api/staticmap?sensor=false&center=37.599999999999994%2C-95.665&zoom=4&size=256x256&language=en&client=google-maps-frontend&signature=ZHy6QGfQalhVZH-bZ4_LhChJzpg",
+            "description": "Find local businesses, view maps and get driving directions in Google Maps."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ssl.gstatic.com/gb/images/silhouette_96.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Translate",
+      "htmlTitle": "<b>Google</b> Translate",
+      "link": "https://translate.google.com/",
+      "displayLink": "translate.google.com",
+      "snippet": "Google's free service instantly translates words, phrases, and web pages \nbetween English and over 100 other languages. English, Afrikaans, Albanian, \nAmharic, ...",
+      "htmlSnippet": "<b>Google&#39;s</b> free service instantly translates words, phrases, and web pages <br>\nbetween English and over 100 other languages. English, Afrikaans, Albanian, <br>\nAmharic,&nbsp;...",
+      "cacheId": "InKXtjHqSVgJ",
+      "formattedUrl": "https://translate.google.com/",
+      "htmlFormattedUrl": "https://translate.<b>google</b>.com/",
+      "pagemap": {
+        "metatags": [
+          {
+            "google": "notranslate"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Hangouts",
+      "htmlTitle": "<b>Google</b> Hangouts",
+      "link": "https://hangouts.google.com/",
+      "displayLink": "hangouts.google.com",
+      "snippet": "Hangouts bring conversations to life with photos, emoji, and even group video \ncalls for free. Connect with friends across computers, Android, and Apple devices\n.",
+      "htmlSnippet": "Hangouts bring conversations to life with photos, emoji, and even group video <br>\ncalls for free. Connect with friends across computers, Android, and Apple devices<br>\n.",
+      "cacheId": "GWWQi6h3N3kJ",
+      "formattedUrl": "https://hangouts.google.com/",
+      "htmlFormattedUrl": "https://hangouts.<b>google</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "102",
+            "height": "102",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwbdtJvIpUBOASjoxjzITjsaSe-TC_MVSAwLaYkw-gV3caaQUkZAI"
+          }
+        ],
+        "product": [
+          {
+            "name": "Google Hangouts",
+            "description": "Hangouts bring conversations to life with photos, emoji, and even group video calls for free. Connect with friends across computers, Android, and Apple devices.",
+            "image": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png"
+          }
+        ],
+        "metatags": [
+          {
+            "og:description": "Hangouts bring conversations to life with photos, emoji, and even group video calls for free. Connect with friends across computers, Android, and Apple devices.",
+            "twitter:description": "Hangouts bring conversations to life with photos, emoji, and even group video calls for free.",
+            "og:image": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png",
+            "og:type": "website",
+            "og:title": "Google Hangouts",
+            "twitter:card": "product",
+            "twitter:site": "@google",
+            "twitter:title": "Google Hangouts",
+            "twitter:image:src": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png",
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png"
+          }
+        ],
+        "hproduct": [
+          {
+            "description": "Hangouts bring conversations to life with photos, emoji, and even group video calls for free. Connect with friends across computers, Android, and Apple devices.",
+            "fn": "Google Hangouts",
+            "photo": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Images",
+      "htmlTitle": "<b>Google</b> Images",
+      "link": "https://images.google.com/",
+      "displayLink": "images.google.com",
+      "snippet": "Google Images. The most comprehensive image search on the web.",
+      "htmlSnippet": "<b>Google</b> Images. The most comprehensive image search on the web.",
+      "cacheId": "53q8dRS-MysJ",
+      "formattedUrl": "https://images.google.com/",
+      "htmlFormattedUrl": "https://images.<b>google</b>.com/",
+      "pagemap": {
+        "webpage": [
+          {
+            "image": "/images/branding/googleg/1x/googleg_standard_color_128dp.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google+",
+      "htmlTitle": "Google+",
+      "link": "https://plus.google.com/",
+      "displayLink": "plus.google.com",
+      "snippet": "Enter your email. Need help? Sign in with a different account Create account. \nOne Google Account for everything Google. About Google · Privacy · Terms · \nHelp.",
+      "htmlSnippet": "Enter your email. Need help? Sign in with a different account Create account. <br>\nOne <b>Google</b> Account for everything <b>Google</b>. About <b>Google</b> &middot; Privacy &middot; Terms &middot; <br>\nHelp.",
+      "cacheId": "INDMkJEFRpcJ",
+      "formattedUrl": "https://plus.google.com/",
+      "htmlFormattedUrl": "https://plus.<b>google</b>.com/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=300, initial-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Groups",
+      "htmlTitle": "<b>Google</b> Groups",
+      "link": "https://groups.google.com/",
+      "displayLink": "groups.google.com",
+      "snippet": "Google Groups allows you to create and participate in online forums and email-\nbased groups with a rich experience for community conversations.",
+      "htmlSnippet": "<b>Google</b> Groups allows you to create and participate in online forums and email-<br>\nbased groups with a rich experience for community conversations.",
+      "cacheId": "NtOoUU9wCTgJ",
+      "formattedUrl": "https://groups.google.com/",
+      "htmlFormattedUrl": "https://groups.<b>google</b>.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "74",
+            "height": "74",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRteZe_WmKE33kZpUf7ysz6GIqCJtk10_1XCjLvP9QHhHkTkMJ3tNDSLA"
+          }
+        ],
+        "metatags": [
+          {
+            "gwt:property": "locale=en",
+            "standalone::gwt:property": "baseUrl=/forum/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://groups.google.com/forum/browse-all-color.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Play",
+      "htmlTitle": "<b>Google</b> Play",
+      "link": "https://play.google.com/store?hl=en",
+      "displayLink": "play.google.com",
+      "snippet": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, \nmagazines & more. Anytime, anywhere, across your devices.",
+      "htmlSnippet": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, <br>\nmagazines &amp; more. Anytime, anywhere, across your devices.",
+      "cacheId": "Oje0jITxpTYJ",
+      "formattedUrl": "https://play.google.com/store?hl=en",
+      "htmlFormattedUrl": "https://play.<b>google</b>.com/store?hl=en",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "299",
+            "height": "168",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNBSFSFUqY-gWxg1s3QhQ4aGezSYh_kQUurRS5llWA8PMmQ8DhSqi_NCM"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "og:title": "Google Play",
+            "og:url": "https://play.google.com/store"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh3.googleusercontent.com/2y9FbHOcYZ1m_tSIL1SissYzl2QKZ0GhFpdjJxND8XdyO5pKek2tJP6209Pymgvjuds=w515"
+          }
+        ]
+      }
+    }
+  ]
+}
