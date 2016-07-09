@@ -7,9 +7,9 @@
   "queries": {
     "request": [
       {
-        "title": "Google Custom Search - google",
-        "totalResults": "586000000",
-        "searchTerms": "google",
+        "title": "Google Custom Search - site:youtube.com sledgehammer",
+        "totalResults": "248000",
+        "searchTerms": "site:youtube.com sledgehammer",
         "count": 10,
         "startIndex": 1,
         "inputEncoding": "utf8",
@@ -20,9 +20,9 @@
     ],
     "nextPage": [
       {
-        "title": "Google Custom Search - google",
-        "totalResults": "586000000",
-        "searchTerms": "google",
+        "title": "Google Custom Search - site:youtube.com sledgehammer",
+        "totalResults": "248000",
+        "searchTerms": "site:youtube.com sledgehammer",
         "count": 10,
         "startIndex": 11,
         "inputEncoding": "utf8",
@@ -36,335 +36,1046 @@
     "title": "Google"
   },
   "searchInformation": {
-    "searchTime": 0.379835,
-    "formattedSearchTime": "0.38",
-    "totalResults": "586000000",
-    "formattedTotalResults": "586,000,000"
+    "searchTime": 0.437575,
+    "formattedSearchTime": "0.44",
+    "totalResults": "248000",
+    "formattedTotalResults": "248,000"
   },
   "items": [
     {
       "kind": "customsearch#result",
-      "title": "Google",
-      "htmlTitle": "<b>Google</b>",
-      "link": "https://www.google.com/",
-      "displayLink": "www.google.com",
-      "snippet": "Search the world's information, including webpages, images, videos and more. \nGoogle has many special features to help you find exactly what you're looking ...",
-      "htmlSnippet": "Search the world&#39;s information, including webpages, images, videos and more. <br>\n<b>Google</b> has many special features to help you find exactly what you&#39;re looking&nbsp;...",
-      "cacheId": "y14FcUQOGl4J",
-        "formattedUrl": "https://www.google.com/",
-      "htmlFormattedUrl": "https://www.<b>google</b>.com/",
+      "title": "Fifth Harmony - Sledgehammer - YouTube",
+      "htmlTitle": "Fifth Harmony - <b>Sledgehammer</b> - YouTube",
+      "link": "https://www.youtube.com/watch?v=gCJ3rmiZFr8",
+      "displayLink": "www.youtube.com",
+      "snippet": "Nov 25, 2014 ... Download the Reflection album at iTunes: http://smarturl.it/RFLT Download the \nReflection album at Amazon: http://smarturl.it/5h_Rflt Spotify: ...",
+      "htmlSnippet": "Nov 25, 2014 <b>...</b> Download the Reflection album at iTunes: http://smarturl.it/RFLT Download the <br>\nReflection album at Amazon: http://smarturl.it/5h_Rflt Spotify:&nbsp;...",
+      "cacheId": "CnJYMEJrk3IJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=gCJ3rmiZFr8",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=gCJ3rmiZFr8",
       "pagemap": {
         "cse_thumbnail": [
           {
-            "width": "217",
-            "height": "73",
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDjB4zxWMGFPE5Ufxh9imLrO9Y6hBgfEIW10yzopUjieRByDBCHPOhoRg"
-          }
-        ],
-        "webpage": [
-          {
-            "image": "/images/branding/googleg/1x/googleg_standard_color_128dp.png"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Google News",
-      "htmlTitle": "<b>Google</b> News",
-      "link": "https://news.google.com/",
-      "displayLink": "news.google.com",
-      "snippet": "Comprehensive up-to-date news coverage, aggregated from sources all over the \nworld by Google News.",
-      "htmlSnippet": "Comprehensive up-to-date news coverage, aggregated from sources all over the <br>\nworld by <b>Google</b> News.",
-      "cacheId": "ozdoT-F6oa4J",
-      "formattedUrl": "https://news.google.com/",
-      "htmlFormattedUrl": "https://news.<b>google</b>.com/",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "width": "96",
-            "height": "72",
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpo2Q2fCHk43-ryr66t_hh3LvBIabbJKhYe6vbdOezoG0_HtgXKS8i"
-          }
-        ],
-        "metatags": [
-          {
-            "apple-itunes-app": "app-id=913753848",
-            "referrer": "origin"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://i.ytimg.com/vi/9LE9BFf42dY/default.jpg"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Google Drive - Cloud Storage & File Backup for Photos, Docs & More",
-      "htmlTitle": "<b>Google</b> Drive - Cloud Storage &amp; File Backup for Photos, Docs &amp; More",
-      "link": "https://www.google.com/drive/",
-      "displayLink": "www.google.com",
-      "snippet": "Get access to files anywhere through secure cloud storage and file backup for \nyour photos, videos, files and more with Google Drive.",
-      "htmlSnippet": "Get access to files anywhere through secure cloud storage and file backup for <br>\nyour photos, videos, files and more with <b>Google</b> Drive.",
-      "cacheId": "uqmo4lUVIlEJ",
-      "formattedUrl": "https://www.google.com/drive/",
-      "htmlFormattedUrl": "https://www.<b>google</b>.com/drive/",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "width": "143",
-            "height": "124",
-            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_lKvopIHhL6rRhr8y1qrRGy2KB48ew42YUVxVdJ7f_g7kuq2jocJyvBU"
-          }
-        ],
-        "metatags": [
-          {
-            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
-            "og:title": "Google Drive - Cloud Storage & File Backup for Photos, Docs & More",
-            "og:image": "//www.google.com/drive/images/drive/logo-drive.png",
-            "og:description": "Get access to files anywhere through secure cloud storage and file backup for your photos, videos, files and more with Google Drive.",
-            "og:type": "website",
-            "msvalidate.01": "D93199779C0B5EE436644DE888FCC272",
-            "og:url": "https://www.google.com/drive/",
-            "twitter:card": "summary",
-            "twitter:url": "https://www.google.com/drive/",
-            "twitter:title": "Meet Google Drive – One place for all your files",
-            "twitter:image": "http://www.google.com/drive/images/drive/logo-drive.png",
-            "twitter:description": "Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.",
-            "twitter:creator": "@google"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://www.google.com/drive/images/drive/logo-drive.png"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Google Maps",
-      "htmlTitle": "<b>Google</b> Maps",
-      "link": "https://maps.google.com/",
-      "displayLink": "maps.google.com",
-      "snippet": "Find local businesses, view maps and get driving directions in Google Maps.",
-      "htmlSnippet": "Find local businesses, view maps and get driving directions in <b>Google</b> Maps.",
-      "cacheId": "SK7Wkfiy_5IJ",
-      "formattedUrl": "https://maps.google.com/",
-      "htmlFormattedUrl": "https://maps.<b>google</b>.com/",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "width": "79",
-            "height": "79",
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTnonf_3aqokUadTh2YgBIuuXOeWCqwITHrCXiT1wkStRX8x1RDnJGJg"
-          }
-        ],
-        "metatags": [
-          {
-            "viewport": "initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
-            "google": "notranslate",
-            "referrer": "origin",
-            "og:title": "Google Maps",
-            "og:image": "https://maps.google.com/maps/api/staticmap?sensor=false&center=37.599999999999994%2C-95.665&zoom=4&size=256x256&language=en&client=google-maps-frontend&signature=ZHy6QGfQalhVZH-bZ4_LhChJzpg",
-            "og:description": "Find local businesses, view maps and get driving directions in Google Maps.",
-            "og:site_name": "Google Maps",
-            "twitter:card": "summary"
-          }
-        ],
-        "place": [
-          {
-            "name": "Google Maps",
-            "image": "https://maps.google.com/maps/api/staticmap?sensor=false&center=37.599999999999994%2C-95.665&zoom=4&size=256x256&language=en&client=google-maps-frontend&signature=ZHy6QGfQalhVZH-bZ4_LhChJzpg",
-            "description": "Find local businesses, view maps and get driving directions in Google Maps."
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://ssl.gstatic.com/gb/images/silhouette_96.png"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Google Translate",
-      "htmlTitle": "<b>Google</b> Translate",
-      "link": "https://translate.google.com/",
-      "displayLink": "translate.google.com",
-      "snippet": "Google's free service instantly translates words, phrases, and web pages \nbetween English and over 100 other languages. English, Afrikaans, Albanian, \nAmharic, ...",
-      "htmlSnippet": "<b>Google&#39;s</b> free service instantly translates words, phrases, and web pages <br>\nbetween English and over 100 other languages. English, Afrikaans, Albanian, <br>\nAmharic,&nbsp;...",
-      "cacheId": "InKXtjHqSVgJ",
-      "formattedUrl": "https://translate.google.com/",
-      "htmlFormattedUrl": "https://translate.<b>google</b>.com/",
-      "pagemap": {
-        "metatags": [
-          {
-            "google": "notranslate"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Google Hangouts",
-      "htmlTitle": "<b>Google</b> Hangouts",
-      "link": "https://hangouts.google.com/",
-      "displayLink": "hangouts.google.com",
-      "snippet": "Hangouts bring conversations to life with photos, emoji, and even group video \ncalls for free. Connect with friends across computers, Android, and Apple devices\n.",
-      "htmlSnippet": "Hangouts bring conversations to life with photos, emoji, and even group video <br>\ncalls for free. Connect with friends across computers, Android, and Apple devices<br>\n.",
-      "cacheId": "GWWQi6h3N3kJ",
-      "formattedUrl": "https://hangouts.google.com/",
-      "htmlFormattedUrl": "https://hangouts.<b>google</b>.com/",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "width": "102",
-            "height": "102",
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwbdtJvIpUBOASjoxjzITjsaSe-TC_MVSAwLaYkw-gV3caaQUkZAI"
-          }
-        ],
-        "product": [
-          {
-            "name": "Google Hangouts",
-            "description": "Hangouts bring conversations to life with photos, emoji, and even group video calls for free. Connect with friends across computers, Android, and Apple devices.",
-            "image": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png"
-          }
-        ],
-        "metatags": [
-          {
-            "og:description": "Hangouts bring conversations to life with photos, emoji, and even group video calls for free. Connect with friends across computers, Android, and Apple devices.",
-            "twitter:description": "Hangouts bring conversations to life with photos, emoji, and even group video calls for free.",
-            "og:image": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png",
-            "og:type": "website",
-            "og:title": "Google Hangouts",
-            "twitter:card": "product",
-            "twitter:site": "@google",
-            "twitter:title": "Google Hangouts",
-            "twitter:image:src": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png",
-            "viewport": "width=device-width, initial-scale=1"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png"
-          }
-        ],
-        "hproduct": [
-          {
-            "description": "Hangouts bring conversations to life with photos, emoji, and even group video calls for free. Connect with friends across computers, Android, and Apple devices.",
-            "fn": "Google Hangouts",
-            "photo": "https://www.gstatic.com/images/icons/material/product/2x/hangouts_64dp.png"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Google Images",
-      "htmlTitle": "<b>Google</b> Images",
-      "link": "https://images.google.com/",
-      "displayLink": "images.google.com",
-      "snippet": "Google Images. The most comprehensive image search on the web.",
-      "htmlSnippet": "<b>Google</b> Images. The most comprehensive image search on the web.",
-      "cacheId": "53q8dRS-MysJ",
-      "formattedUrl": "https://images.google.com/",
-      "htmlFormattedUrl": "https://images.<b>google</b>.com/",
-      "pagemap": {
-        "webpage": [
-          {
-            "image": "/images/branding/googleg/1x/googleg_standard_color_128dp.png"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Google+",
-      "htmlTitle": "Google+",
-      "link": "https://plus.google.com/",
-      "displayLink": "plus.google.com",
-      "snippet": "Enter your email. Need help? Sign in with a different account Create account. \nOne Google Account for everything Google. About Google · Privacy · Terms · \nHelp.",
-      "htmlSnippet": "Enter your email. Need help? Sign in with a different account Create account. <br>\nOne <b>Google</b> Account for everything <b>Google</b>. About <b>Google</b> &middot; Privacy &middot; Terms &middot; <br>\nHelp.",
-      "cacheId": "INDMkJEFRpcJ",
-      "formattedUrl": "https://plus.google.com/",
-      "htmlFormattedUrl": "https://plus.<b>google</b>.com/",
-      "pagemap": {
-        "metatags": [
-          {
-            "viewport": "width=300, initial-scale=1"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Google Groups",
-      "htmlTitle": "<b>Google</b> Groups",
-      "link": "https://groups.google.com/",
-      "displayLink": "groups.google.com",
-      "snippet": "Google Groups allows you to create and participate in online forums and email-\nbased groups with a rich experience for community conversations.",
-      "htmlSnippet": "<b>Google</b> Groups allows you to create and participate in online forums and email-<br>\nbased groups with a rich experience for community conversations.",
-      "cacheId": "NtOoUU9wCTgJ",
-      "formattedUrl": "https://groups.google.com/",
-      "htmlFormattedUrl": "https://groups.<b>google</b>.com/",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "width": "74",
-            "height": "74",
-            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRteZe_WmKE33kZpUf7ysz6GIqCJtk10_1XCjLvP9QHhHkTkMJ3tNDSLA"
-          }
-        ],
-        "metatags": [
-          {
-            "gwt:property": "locale=en",
-            "standalone::gwt:property": "baseUrl=/forum/"
-          }
-        ],
-        "cse_image": [
-          {
-            "src": "https://groups.google.com/forum/browse-all-color.png"
-          }
-        ]
-      }
-    },
-    {
-      "kind": "customsearch#result",
-      "title": "Google Play",
-      "htmlTitle": "<b>Google</b> Play",
-      "link": "https://play.google.com/store?hl=en",
-      "displayLink": "play.google.com",
-      "snippet": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, \nmagazines & more. Anytime, anywhere, across your devices.",
-      "htmlSnippet": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, <br>\nmagazines &amp; more. Anytime, anywhere, across your devices.",
-      "cacheId": "Oje0jITxpTYJ",
-      "formattedUrl": "https://play.google.com/store?hl=en",
-      "htmlFormattedUrl": "https://play.<b>google</b>.com/store?hl=en",
-      "pagemap": {
-        "cse_thumbnail": [
-          {
-            "width": "299",
+            "width": "300",
             "height": "168",
-            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNBSFSFUqY-gWxg1s3QhQ4aGezSYh_kQUurRS5llWA8PMmQ8DhSqi_NCM"
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PqsrpxIMSGg31d7CpylOK4jB0sszrz4QneJ16TpGaLGfHTZrmt0p6V54"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/gCJ3rmiZFr8/maxresdefault.jpg",
+            "width": "1280",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/user/FifthHarmonyVEVO"
+          },
+          {
+            "url": "https://plus.google.com/115158801521521788945"
           }
         ],
         "metatags": [
           {
-            "og:type": "website",
-            "og:title": "Google Play",
-            "og:url": "https://play.google.com/store"
+            "title": "Fifth Harmony - Sledgehammer",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=gCJ3rmiZFr8",
+            "og:title": "Fifth Harmony - Sledgehammer",
+            "og:image": "https://i.ytimg.com/vi/gCJ3rmiZFr8/maxresdefault.jpg",
+            "og:description": "Download the Reflection album at iTunes: http://smarturl.it/RFLT Download the Reflection album at Amazon: http://smarturl.it/5h_Rflt Spotify: http://smarturl...",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=gCJ3rmiZFr8&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=gCJ3rmiZFr8&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=gCJ3rmiZFr8&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/gCJ3rmiZFr8",
+            "og:video:secure_url": "https://www.youtube.com/embed/gCJ3rmiZFr8",
+            "og:video:type": "text/html",
+            "og:video:width": "1280",
+            "og:video:height": "720",
+            "og:video:tag": "Pop",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=gCJ3rmiZFr8",
+            "twitter:title": "Fifth Harmony - Sledgehammer",
+            "twitter:description": "Download the Reflection album at iTunes: http://smarturl.it/RFLT Download the Reflection album at Amazon: http://smarturl.it/5h_Rflt Spotify: http://smarturl...",
+            "twitter:image": "https://i.ytimg.com/vi/gCJ3rmiZFr8/maxresdefault.jpg",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:app:id:ipad": "544007664",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=gCJ3rmiZFr8&feature=applinks",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=gCJ3rmiZFr8&feature=applinks",
+            "twitter:app:name:googleplay": "YouTube",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=gCJ3rmiZFr8",
+            "twitter:player": "https://www.youtube.com/embed/gCJ3rmiZFr8",
+            "twitter:player:width": "1280",
+            "twitter:player:height": "720"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=gCJ3rmiZFr8",
+            "name": "Fifth Harmony - Sledgehammer",
+            "description": "Download the Reflection album at iTunes: http://smarturl.it/RFLT Download the Reflection album at Amazon: http://smarturl.it/5h_Rflt Spotify: http://smarturl...",
+            "paid": "False",
+            "channelid": "UC09d82usokACH1z5YeKnfiA",
+            "videoid": "gCJ3rmiZFr8",
+            "duration": "PT3M52S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/gCJ3rmiZFr8/maxresdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/gCJ3rmiZFr8",
+            "playertype": "HTML5 Flash",
+            "width": "1280",
+            "height": "720",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CX,CY,CZ,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET...",
+            "interactioncount": "113589667",
+            "datepublished": "2014-11-25",
+            "genre": "Music"
           }
         ],
         "cse_image": [
           {
-            "src": "https://lh3.googleusercontent.com/2y9FbHOcYZ1m_tSIL1SissYzl2QKZ0GhFpdjJxND8XdyO5pKek2tJP6209Pymgvjuds=w515"
+            "src": "https://i.ytimg.com/vi/gCJ3rmiZFr8/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peter Gabriel - Sledgehammer - YouTube",
+      "htmlTitle": "Peter Gabriel - <b>Sledgehammer</b> - YouTube",
+      "link": "https://www.youtube.com/watch?v=g93mz_eZ5N4",
+      "displayLink": "www.youtube.com",
+      "snippet": "Apr 9, 2012 ... Buy the 'So 25th anniversary deluxe box set' - http://bit.ly/Nncdvq The official \nSledgehammer video. Directed by Stephen R. Johnson. You could ...",
+      "htmlSnippet": "Apr 9, 2012 <b>...</b> Buy the &#39;So 25th anniversary deluxe box set&#39; - http://bit.ly/Nncdvq The official <br>\n<b>Sledgehammer</b> video. Directed by Stephen R. Johnson. You could&nbsp;...",
+      "cacheId": "Guz1TitfJmAJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=g93mz_eZ5N4",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=g93mz_eZ5N4",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmsWeKHeYfUPXfgfbHMuT6xGLzi29aCKJwATVXyW__shQT_0oQiH_pIA"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/g93mz_eZ5N4/maxresdefault.jpg",
+            "width": "1280",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/user/itspetergabriel"
+          },
+          {
+            "url": "https://plus.google.com/104690915140084133581"
+          }
+        ],
+        "metatags": [
+          {
+            "title": "Peter Gabriel - Sledgehammer",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=g93mz_eZ5N4",
+            "og:title": "Peter Gabriel - Sledgehammer",
+            "og:image": "https://i.ytimg.com/vi/g93mz_eZ5N4/maxresdefault.jpg",
+            "og:description": "# Buy the 'So 25th anniversary deluxe box set' - http://bit.ly/Nncdvq The official Sledgehammer video. Directed by Stephen R. Johnson. You could have a steam...",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=g93mz_eZ5N4&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=g93mz_eZ5N4&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=g93mz_eZ5N4&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/g93mz_eZ5N4",
+            "og:video:secure_url": "https://www.youtube.com/embed/g93mz_eZ5N4",
+            "og:video:type": "text/html",
+            "og:video:width": "480",
+            "og:video:height": "360",
+            "og:video:tag": "music",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=g93mz_eZ5N4",
+            "twitter:title": "Peter Gabriel - Sledgehammer",
+            "twitter:description": "# Buy the 'So 25th anniversary deluxe box set' - http://bit.ly/Nncdvq The official Sledgehammer video. Directed by Stephen R. Johnson. You could have a steam...",
+            "twitter:image": "https://i.ytimg.com/vi/g93mz_eZ5N4/maxresdefault.jpg",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:app:id:ipad": "544007664",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=g93mz_eZ5N4&feature=applinks",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=g93mz_eZ5N4&feature=applinks",
+            "twitter:app:name:googleplay": "YouTube",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=g93mz_eZ5N4",
+            "twitter:player": "https://www.youtube.com/embed/g93mz_eZ5N4",
+            "twitter:player:width": "480",
+            "twitter:player:height": "360",
+            "attribution": "itspetergabriel%2Buser/"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=g93mz_eZ5N4",
+            "name": "Peter Gabriel - Sledgehammer",
+            "description": "# Buy the 'So 25th anniversary deluxe box set' - http://bit.ly/Nncdvq The official Sledgehammer video. Directed by Stephen R. Johnson. You could have a steam...",
+            "paid": "False",
+            "channelid": "UCmcjOnFmIlg-LqTocHbQkFw",
+            "videoid": "g93mz_eZ5N4",
+            "duration": "PT5M2S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/g93mz_eZ5N4/maxresdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/g93mz_eZ5N4",
+            "playertype": "HTML5 Flash",
+            "width": "480",
+            "height": "360",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+            "interactioncount": "4700136",
+            "datepublished": "2012-04-09",
+            "genre": "Music"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/g93mz_eZ5N4/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Rihanna - Sledgehammer (From The Motion Picture \"Star Trek ...",
+      "htmlTitle": "Rihanna - <b>Sledgehammer</b> (From The Motion Picture &quot;Star Trek ...",
+      "link": "https://www.youtube.com/watch?v=BXhIT4MpRis",
+      "displayLink": "www.youtube.com",
+      "snippet": "Jun 30, 2016 ... \"Sledgehammer (From Star Trek Beyond)” from available now: Download on \nTIDAL: http://smarturl.it/tdSledgehammer Download on iTunes: ...",
+      "htmlSnippet": "Jun 30, 2016 <b>...</b> &quot;<b>Sledgehammer</b> (From Star Trek Beyond)” from available now: Download on <br>\nTIDAL: http://smarturl.it/tdSledgehammer Download on iTunes:&nbsp;...",
+      "cacheId": "wztYJjhsfKEJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=BXhIT4MpRis",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=BXhIT4MpRis",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9fJlgvahemtcQc9patE6gKP0wc9BHkqcpCo0oFeGvziKloQkxNralG06y"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/BXhIT4MpRis/maxresdefault.jpg",
+            "width": "1280",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/user/RihannaVEVO"
+          },
+          {
+            "url": "https://plus.google.com/109295198983519884974"
+          }
+        ],
+        "metatags": [
+          {
+            "title": "Rihanna - Sledgehammer (From The Motion Picture \"Star Trek Beyond\")",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=BXhIT4MpRis",
+            "og:title": "Rihanna - Sledgehammer (From The Motion Picture \"Star Trek Beyond\")",
+            "og:image": "https://i.ytimg.com/vi/BXhIT4MpRis/maxresdefault.jpg",
+            "og:description": "\"Sledgehammer (From Star Trek Beyond)” from available now: Download on TIDAL: http://smarturl.it/tdSledgehammer Download on iTunes: http://smarturl.it/iSledg...",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=BXhIT4MpRis&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=BXhIT4MpRis&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=BXhIT4MpRis&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/BXhIT4MpRis",
+            "og:video:secure_url": "https://www.youtube.com/embed/BXhIT4MpRis",
+            "og:video:type": "text/html",
+            "og:video:width": "1280",
+            "og:video:height": "720",
+            "og:video:tag": "Star Trek",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=BXhIT4MpRis",
+            "twitter:title": "Rihanna - Sledgehammer (From The Motion Picture \"Star Trek Beyond\")",
+            "twitter:description": "\"Sledgehammer (From Star Trek Beyond)” from available now: Download on TIDAL: http://smarturl.it/tdSledgehammer Download on iTunes: http://smarturl.it/iSledg...",
+            "twitter:image": "https://i.ytimg.com/vi/BXhIT4MpRis/maxresdefault.jpg",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:app:id:ipad": "544007664",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=BXhIT4MpRis&feature=applinks",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=BXhIT4MpRis&feature=applinks",
+            "twitter:app:name:googleplay": "YouTube",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=BXhIT4MpRis",
+            "twitter:player": "https://www.youtube.com/embed/BXhIT4MpRis",
+            "twitter:player:width": "1280"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=BXhIT4MpRis",
+            "name": "Rihanna - Sledgehammer (From The Motion Picture \"Star Trek Beyond\")",
+            "description": "\"Sledgehammer (From Star Trek Beyond)” from available now: Download on TIDAL: http://smarturl.it/tdSledgehammer Download on iTunes: http://smarturl.it/iSledg...",
+            "paid": "False",
+            "channelid": "UC2xskkQVFEpLcGFnNSLQY0A",
+            "videoid": "BXhIT4MpRis",
+            "duration": "PT3M56S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/BXhIT4MpRis/maxresdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/BXhIT4MpRis",
+            "playertype": "HTML5 Flash",
+            "width": "1280",
+            "height": "720",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER...",
+            "interactioncount": "14555516",
+            "datepublished": "2016-06-30",
+            "genre": "Music"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/BXhIT4MpRis/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peter Gabriel - Sledgehammer (HD version) - YouTube",
+      "htmlTitle": "Peter Gabriel - <b>Sledgehammer</b> (HD version) - YouTube",
+      "link": "https://www.youtube.com/watch?v=OJWJE0x7T4Q",
+      "displayLink": "www.youtube.com",
+      "snippet": "Sep 24, 2012 ... The official Sledgehammer video in HD. Directed by Stephen R. Johnson, \nproduced by Adam Whittaker. Claymation, pixilation, and stop motion ...",
+      "htmlSnippet": "Sep 24, 2012 <b>...</b> The official <b>Sledgehammer</b> video in HD. Directed by Stephen R. Johnson, <br>\nproduced by Adam Whittaker. Claymation, pixilation, and stop motion&nbsp;...",
+      "cacheId": "7I3fwoRjTogJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=OJWJE0x7T4Q",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=OJWJE0x7T4Q",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRudrWeaX0ZqvQVISAIrvaQ8vJBjgEicE0LdP9Qf6wteDSkdJTOdK0WwWKW"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/OJWJE0x7T4Q/maxresdefault.jpg",
+            "width": "1280",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/user/itspetergabriel"
+          },
+          {
+            "url": "https://plus.google.com/104690915140084133581"
+          }
+        ],
+        "metatags": [
+          {
+            "title": "Peter Gabriel - Sledgehammer (HD version)",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=OJWJE0x7T4Q",
+            "og:title": "Peter Gabriel - Sledgehammer (HD version)",
+            "og:image": "https://i.ytimg.com/vi/OJWJE0x7T4Q/maxresdefault.jpg",
+            "og:description": "The official Sledgehammer video in HD. Directed by Stephen R. Johnson, produced by Adam Whittaker. Claymation, pixilation, and stop motion animation provided...",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=OJWJE0x7T4Q&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=OJWJE0x7T4Q&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=OJWJE0x7T4Q&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/OJWJE0x7T4Q",
+            "og:video:secure_url": "https://www.youtube.com/embed/OJWJE0x7T4Q",
+            "og:video:type": "text/html",
+            "og:video:width": "1280",
+            "og:video:height": "720",
+            "og:video:tag": "Peter Gabriel",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=OJWJE0x7T4Q",
+            "twitter:title": "Peter Gabriel - Sledgehammer (HD version)",
+            "twitter:description": "The official Sledgehammer video in HD. Directed by Stephen R. Johnson, produced by Adam Whittaker. Claymation, pixilation, and stop motion animation provided...",
+            "twitter:image": "https://i.ytimg.com/vi/OJWJE0x7T4Q/maxresdefault.jpg",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:app:id:ipad": "544007664",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=OJWJE0x7T4Q&feature=applinks",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=OJWJE0x7T4Q&feature=applinks",
+            "twitter:app:name:googleplay": "YouTube",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=OJWJE0x7T4Q",
+            "twitter:player": "https://www.youtube.com/embed/OJWJE0x7T4Q",
+            "twitter:player:width": "1280"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=OJWJE0x7T4Q",
+            "name": "Peter Gabriel - Sledgehammer (HD version)",
+            "description": "The official Sledgehammer video in HD. Directed by Stephen R. Johnson, produced by Adam Whittaker. Claymation, pixilation, and stop motion animation provided...",
+            "paid": "False",
+            "channelid": "UCmcjOnFmIlg-LqTocHbQkFw",
+            "videoid": "OJWJE0x7T4Q",
+            "duration": "PT5M46S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/OJWJE0x7T4Q/maxresdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/OJWJE0x7T4Q",
+            "playertype": "HTML5 Flash",
+            "width": "1280",
+            "height": "720",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+            "interactioncount": "6412556",
+            "datepublished": "2012-09-24",
+            "genre": "Music"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/OJWJE0x7T4Q/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Fifth Harmony - Sledgehammer (Lyrics) - YouTube",
+      "htmlTitle": "Fifth Harmony - <b>Sledgehammer</b> (Lyrics) - YouTube",
+      "link": "https://www.youtube.com/watch?v=2oJQjn675vE",
+      "displayLink": "www.youtube.com",
+      "snippet": "Oct 29, 2014 ... I do not own this song Buy this song on iTunes now! https://itunes.apple.com/us/\nalbum/reflection-deluxe/id909767577?ign-mpt=uo%3D4 Lyrics ...",
+      "htmlSnippet": "Oct 29, 2014 <b>...</b> I do not own this song Buy this song on iTunes now! https://itunes.apple.com/us/<br>\nalbum/reflection-deluxe/id909767577?ign-mpt=uo%3D4 Lyrics&nbsp;...",
+      "cacheId": "PnWYbkv0MKwJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=2oJQjn675vE",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=2oJQjn675vE",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBeoNhfgF2L_rm33Ch5-gD7zPEZC820PXuhRkOMArgGNj2CoTmyc0NAhM"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/2oJQjn675vE/maxresdefault.jpg",
+            "width": "1280",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/user/FifthHarmonyHQ"
+          },
+          {
+            "url": "https://plus.google.com/115841849707292044033"
+          }
+        ],
+        "metatags": [
+          {
+            "title": "Fifth Harmony - Sledgehammer (Lyrics)",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=2oJQjn675vE",
+            "og:title": "Fifth Harmony - Sledgehammer (Lyrics)",
+            "og:image": "https://i.ytimg.com/vi/2oJQjn675vE/maxresdefault.jpg",
+            "og:description": "I do not own this song Buy this song on iTunes now! https://itunes.apple.com/us/album/reflection-deluxe/id909767577?ign-mpt=uo%3D4 Lyrics to \"Sledgehammer\", ...",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=2oJQjn675vE&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=2oJQjn675vE&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=2oJQjn675vE&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/2oJQjn675vE",
+            "og:video:secure_url": "https://www.youtube.com/embed/2oJQjn675vE",
+            "og:video:type": "text/html",
+            "og:video:width": "1280",
+            "og:video:height": "720",
+            "og:video:tag": "fifth harmony",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=2oJQjn675vE",
+            "twitter:title": "Fifth Harmony - Sledgehammer (Lyrics)",
+            "twitter:description": "I do not own this song Buy this song on iTunes now! https://itunes.apple.com/us/album/reflection-deluxe/id909767577?ign-mpt=uo%3D4 Lyrics to \"Sledgehammer\", ...",
+            "twitter:image": "https://i.ytimg.com/vi/2oJQjn675vE/maxresdefault.jpg",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664",
+            "twitter:app:name:ipad": "YouTube"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=2oJQjn675vE",
+            "name": "Fifth Harmony - Sledgehammer (Lyrics)",
+            "description": "I do not own this song Buy this song on iTunes now! https://itunes.apple.com/us/album/reflection-deluxe/id909767577?ign-mpt=uo%3D4 Lyrics to \"Sledgehammer\", ...",
+            "paid": "False",
+            "channelid": "UCJqjOI1vwzDC_QZua9uq_Lw",
+            "videoid": "2oJQjn675vE",
+            "duration": "PT3M53S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/2oJQjn675vE/maxresdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/2oJQjn675vE",
+            "playertype": "HTML5 Flash",
+            "width": "1280",
+            "height": "720",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER...",
+            "interactioncount": "8815188",
+            "datepublished": "2014-10-29",
+            "genre": "Music"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/2oJQjn675vE/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Star Trek Beyond Trailer #3 (2016) - Featuring \"Sledgehammer\" by ...",
+      "htmlTitle": "Star Trek Beyond Trailer #3 (2016) - Featuring &quot;<b>Sledgehammer</b>&quot; by ...",
+      "link": "https://www.youtube.com/watch?v=3MBXBMkcUNo",
+      "displayLink": "www.youtube.com",
+      "snippet": "Jun 27, 2016 ... Watch the new trailer for Star Trek Beyond, featuring \"Sledgehammer\" by \nRihanna. Starring Idris Elba, Chris Pine, Simon Pegg, Zachary Quinto, ...",
+      "htmlSnippet": "Jun 27, 2016 <b>...</b> Watch the new trailer for Star Trek Beyond, featuring &quot;<b>Sledgehammer</b>&quot; by <br>\nRihanna. Starring Idris Elba, Chris Pine, Simon Pegg, Zachary Quinto,&nbsp;...",
+      "cacheId": "91WrcjuIe5YJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=3MBXBMkcUNo",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=3MBXBMkcUNo",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkE3db9fYIVx4OwrsvyhcBVT5HjXQVnvn4OhEk_YmYVK-sgreiH9o7LcSf"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/3MBXBMkcUNo/maxresdefault.jpg",
+            "width": "1280",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/user/Paramount"
+          },
+          {
+            "url": "https://plus.google.com/100070427969016830498"
+          }
+        ],
+        "metatags": [
+          {
+            "title": "Star Trek Beyond Trailer #3 (2016) - Featuring \"Sledgehammer\" by Rihanna - Paramount Pictures",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=3MBXBMkcUNo",
+            "og:title": "Star Trek Beyond Trailer #3 (2016) - Featuring \"Sledgehammer\" by Rihanna - Paramount Pictures",
+            "og:image": "https://i.ytimg.com/vi/3MBXBMkcUNo/maxresdefault.jpg",
+            "og:description": "Watch the new trailer for Star Trek Beyond, featuring \"Sledgehammer\" by Rihanna. Starring Idris Elba, Chris Pine, Simon Pegg, Zachary Quinto, Zoe Saldana, Jo...",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=3MBXBMkcUNo&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=3MBXBMkcUNo&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=3MBXBMkcUNo&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/3MBXBMkcUNo",
+            "og:video:secure_url": "https://www.youtube.com/embed/3MBXBMkcUNo",
+            "og:video:type": "text/html",
+            "og:video:width": "1280",
+            "og:video:height": "720",
+            "og:video:tag": "Star Trek",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=3MBXBMkcUNo",
+            "twitter:title": "Star Trek Beyond Trailer #3 (2016) - Featuring \"Sledgehammer\" by Rihanna - Paramount Pictures",
+            "twitter:description": "Watch the new trailer for Star Trek Beyond, featuring \"Sledgehammer\" by Rihanna. Starring Idris Elba, Chris Pine, Simon Pegg, Zachary Quinto, Zoe Saldana, Jo...",
+            "twitter:image": "https://i.ytimg.com/vi/3MBXBMkcUNo/maxresdefault.jpg",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=3MBXBMkcUNo",
+            "name": "Star Trek Beyond Trailer #3 (2016) - Featuring \"Sledgehammer\" by Rihanna - Paramount Pictures",
+            "description": "Watch the new trailer for Star Trek Beyond, featuring \"Sledgehammer\" by Rihanna. Starring Idris Elba, Chris Pine, Simon Pegg, Zachary Quinto, Zoe Saldana, Jo...",
+            "paid": "False",
+            "channelid": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "videoid": "3MBXBMkcUNo",
+            "duration": "PT1M49S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/3MBXBMkcUNo/maxresdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/3MBXBMkcUNo",
+            "playertype": "HTML5 Flash",
+            "width": "1280",
+            "height": "720",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+            "interactioncount": "1604369",
+            "datepublished": "2016-06-27",
+            "genre": "Film & Animation"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/3MBXBMkcUNo/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Rihanna - Sledgehammer (Star Trek Beyond) - YouTube",
+      "htmlTitle": "Rihanna - <b>Sledgehammer</b> (Star Trek Beyond) - YouTube",
+      "link": "https://www.youtube.com/watch?v=Qa9aZNrBVpo",
+      "displayLink": "www.youtube.com",
+      "snippet": "Jun 28, 2016 ... Brand new soundtrack of the movie - Star Trek Beyond.",
+      "htmlSnippet": "Jun 28, 2016 <b>...</b> Brand new soundtrack of the movie - Star Trek Beyond.",
+      "cacheId": "TxcZrHE2EEEJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=Qa9aZNrBVpo",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=Qa9aZNrBVpo",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "224",
+            "height": "225",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUpzgZClb9W1hFhay7Z3Y1Ob8ZipFOvt7wDcNTQosKifD7GDAB-I9Pmws"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/Qa9aZNrBVpo/maxresdefault.jpg",
+            "width": "1280",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/channel/UCdUa1HtlT5ynrqMmK2e6UXA"
+          },
+          {
+            "url": "https://plus.google.com/115447851444290582202"
+          }
+        ],
+        "metatags": [
+          {
+            "title": "Rihanna - Sledgehammer (Star Trek Beyond)",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=Qa9aZNrBVpo",
+            "og:title": "Rihanna - Sledgehammer (Star Trek Beyond)",
+            "og:image": "https://i.ytimg.com/vi/Qa9aZNrBVpo/maxresdefault.jpg",
+            "og:description": "Brand new soundtrack of the movie - Star Trek Beyond",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=Qa9aZNrBVpo&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=Qa9aZNrBVpo&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=Qa9aZNrBVpo&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/Qa9aZNrBVpo",
+            "og:video:secure_url": "https://www.youtube.com/embed/Qa9aZNrBVpo",
+            "og:video:type": "text/html",
+            "og:video:width": "480",
+            "og:video:height": "360",
+            "og:video:tag": "Rihanna",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=Qa9aZNrBVpo",
+            "twitter:title": "Rihanna - Sledgehammer (Star Trek Beyond)",
+            "twitter:description": "Brand new soundtrack of the movie - Star Trek Beyond",
+            "twitter:image": "https://i.ytimg.com/vi/Qa9aZNrBVpo/maxresdefault.jpg",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:app:id:ipad": "544007664",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=Qa9aZNrBVpo&feature=applinks",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=Qa9aZNrBVpo&feature=applinks",
+            "twitter:app:name:googleplay": "YouTube",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=Qa9aZNrBVpo",
+            "twitter:player": "https://www.youtube.com/embed/Qa9aZNrBVpo",
+            "twitter:player:width": "480",
+            "twitter:player:height": "360",
+            "attribution": "UMG/"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=Qa9aZNrBVpo",
+            "name": "Rihanna - Sledgehammer (Star Trek Beyond)",
+            "description": "Brand new soundtrack of the movie - Star Trek Beyond",
+            "paid": "False",
+            "channelid": "UCdUa1HtlT5ynrqMmK2e6UXA",
+            "videoid": "Qa9aZNrBVpo",
+            "duration": "PT3M32S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/Qa9aZNrBVpo/maxresdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/Qa9aZNrBVpo",
+            "playertype": "HTML5 Flash",
+            "width": "480",
+            "height": "360",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER...",
+            "interactioncount": "111184",
+            "datepublished": "2016-06-28",
+            "genre": "People & Blogs"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/Qa9aZNrBVpo/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Fifth Harmony - Sledgehammer (Audio) - YouTube",
+      "htmlTitle": "Fifth Harmony - <b>Sledgehammer</b> (Audio) - YouTube",
+      "link": "https://www.youtube.com/watch?v=aiLjNCmOqLM",
+      "displayLink": "www.youtube.com",
+      "snippet": "Oct 28, 2014 ... thx I needed those closest thing to a sledgehammer﻿. Read more ... If your heart is \nlike a sledgehammer.....u need urgent help from a doctor﻿.",
+      "htmlSnippet": "Oct 28, 2014 <b>...</b> thx I needed those closest thing to a <b>sledgehammer</b>﻿. Read more ... If your heart is <br>\nlike a <b>sledgehammer</b>.....u need urgent help from a doctor﻿.",
+      "cacheId": "TZkCIV6ElQcJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=aiLjNCmOqLM",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=aiLjNCmOqLM",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "300",
+            "height": "168",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgUmqgfCg_xzpx5vBxO49b6pzy5fB8HmuvGKHAA8ue9R-Iiegt9yYvXRo"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/aiLjNCmOqLM/maxresdefault.jpg",
+            "width": "1280",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/user/FifthHarmonyVEVO"
+          },
+          {
+            "url": "https://plus.google.com/115158801521521788945"
+          }
+        ],
+        "metatags": [
+          {
+            "title": "Fifth Harmony - Sledgehammer (Audio)",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=aiLjNCmOqLM",
+            "og:title": "Fifth Harmony - Sledgehammer (Audio)",
+            "og:image": "https://i.ytimg.com/vi/aiLjNCmOqLM/maxresdefault.jpg",
+            "og:description": "Download the Reflection album at iTunes: http://smarturl.it/RFLT Download the Reflection album at Amazon: http://smarturl.it/5h_Rflt Spotify: http://smarturl...",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=aiLjNCmOqLM&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=aiLjNCmOqLM&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=aiLjNCmOqLM&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/aiLjNCmOqLM",
+            "og:video:secure_url": "https://www.youtube.com/embed/aiLjNCmOqLM",
+            "og:video:type": "text/html",
+            "og:video:width": "1280",
+            "og:video:height": "720",
+            "og:video:tag": "Pop",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=aiLjNCmOqLM",
+            "twitter:title": "Fifth Harmony - Sledgehammer (Audio)",
+            "twitter:description": "Download the Reflection album at iTunes: http://smarturl.it/RFLT Download the Reflection album at Amazon: http://smarturl.it/5h_Rflt Spotify: http://smarturl...",
+            "twitter:image": "https://i.ytimg.com/vi/aiLjNCmOqLM/maxresdefault.jpg",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:app:id:ipad": "544007664",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=aiLjNCmOqLM&feature=applinks",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=aiLjNCmOqLM&feature=applinks",
+            "twitter:app:name:googleplay": "YouTube",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=aiLjNCmOqLM",
+            "twitter:player": "https://www.youtube.com/embed/aiLjNCmOqLM",
+            "twitter:player:width": "1280",
+            "twitter:player:height": "720",
+            "attribution": "vevo/"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=aiLjNCmOqLM",
+            "name": "Fifth Harmony - Sledgehammer (Audio)",
+            "description": "Download the Reflection album at iTunes: http://smarturl.it/RFLT Download the Reflection album at Amazon: http://smarturl.it/5h_Rflt Spotify: http://smarturl...",
+            "paid": "False",
+            "channelid": "UC09d82usokACH1z5YeKnfiA",
+            "videoid": "aiLjNCmOqLM",
+            "duration": "PT3M55S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/aiLjNCmOqLM/maxresdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/aiLjNCmOqLM",
+            "playertype": "HTML5 Flash",
+            "width": "1280",
+            "height": "720",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CX,CY,CZ,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET...",
+            "interactioncount": "4525111",
+            "datepublished": "2014-10-28",
+            "genre": "Music"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/aiLjNCmOqLM/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peter Gabriel - Sledgehammer (1986) - YouTube",
+      "htmlTitle": "Peter Gabriel - <b>Sledgehammer</b> (1986) - YouTube",
+      "link": "https://www.youtube.com/watch?v=N1tTN-b5KHg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Apr 7, 2008 ... Music video of 1986 directed by Stephen R. Johnson From Peter Gabriel's 'So' \nalbum In 1987, this video won 9 MTV Video Music Awards.",
+      "htmlSnippet": "Apr 7, 2008 <b>...</b> Music video of 1986 directed by Stephen R. Johnson From Peter Gabriel&#39;s &#39;So&#39; <br>\nalbum In 1987, this video won 9 MTV Video Music Awards.",
+      "cacheId": "YSnbjZtNlSEJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=N1tTN-b5KHg",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=N1tTN-b5KHg",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "259",
+            "height": "194",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrNw6Vh4SCnCFd933-knWqAoWPu-SHdT81n--JpkGTrhudnSBsnNhmkXQ"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/N1tTN-b5KHg/hqdefault.jpg",
+            "width": "480",
+            "height": "360"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/user/pcfrlog"
+          }
+        ],
+        "metatags": [
+          {
+            "title": "Peter Gabriel - Sledgehammer (1986)",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=N1tTN-b5KHg",
+            "og:title": "Peter Gabriel - Sledgehammer (1986)",
+            "og:image": "https://i.ytimg.com/vi/N1tTN-b5KHg/hqdefault.jpg",
+            "og:description": "Music video of 1986 directed by Stephen R. Johnson From Peter Gabriel's 'So' album In 1987, this video won 9 MTV Video Music Awards. For more information abo...",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=N1tTN-b5KHg&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=N1tTN-b5KHg&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=N1tTN-b5KHg&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/N1tTN-b5KHg",
+            "og:video:secure_url": "https://www.youtube.com/embed/N1tTN-b5KHg",
+            "og:video:type": "text/html",
+            "og:video:width": "480",
+            "og:video:height": "360",
+            "og:video:tag": "peter",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=N1tTN-b5KHg",
+            "twitter:title": "Peter Gabriel - Sledgehammer (1986)",
+            "twitter:description": "Music video of 1986 directed by Stephen R. Johnson From Peter Gabriel's 'So' album In 1987, this video won 9 MTV Video Music Awards. For more information abo...",
+            "twitter:image": "https://i.ytimg.com/vi/N1tTN-b5KHg/hqdefault.jpg",
+            "twitter:app:name:iphone": "YouTube",
+            "twitter:app:id:iphone": "544007664",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:app:id:ipad": "544007664",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=N1tTN-b5KHg&feature=applinks",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=N1tTN-b5KHg&feature=applinks",
+            "twitter:app:name:googleplay": "YouTube",
+            "twitter:app:id:googleplay": "com.google.android.youtube",
+            "twitter:app:url:googleplay": "https://www.youtube.com/watch?v=N1tTN-b5KHg",
+            "twitter:player": "https://www.youtube.com/embed/N1tTN-b5KHg",
+            "twitter:player:width": "480",
+            "twitter:player:height": "360",
+            "attribution": "itspetergabriel%2Buser/"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=N1tTN-b5KHg",
+            "name": "Peter Gabriel - Sledgehammer (1986)",
+            "description": "Music video of 1986 directed by Stephen R. Johnson From Peter Gabriel's 'So' album In 1987, this video won 9 MTV Video Music Awards. For more information abo...",
+            "paid": "False",
+            "channelid": "UCm6nIscK5yPmQ9ONUiaG6SQ",
+            "videoid": "N1tTN-b5KHg",
+            "duration": "PT5M1S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/N1tTN-b5KHg/hqdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/N1tTN-b5KHg",
+            "playertype": "HTML5 Flash",
+            "width": "480",
+            "height": "360",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+            "interactioncount": "9678670",
+            "datepublished": "2008-04-07",
+            "genre": "Music"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/N1tTN-b5KHg/hqdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "RIHANNA - SLEDGEHAMMER ILLUMINATI EXPOSED! - YouTube",
+      "htmlTitle": "RIHANNA - <b>SLEDGEHAMMER</b> ILLUMINATI EXPOSED! - YouTube",
+      "link": "https://www.youtube.com/watch?v=oPH03dnzneM",
+      "displayLink": "www.youtube.com",
+      "snippet": "Jul 1, 2016 ... Rihanna is a WITCH - Sledgehammer EXPOSED! ... Rihanna - Sledgehammer/\nStar Trek Beyond/ILLUMINATI EXPOSED - Duration: 16:17.",
+      "htmlSnippet": "Jul 1, 2016 <b>...</b> Rihanna is a WITCH - <b>Sledgehammer</b> EXPOSED! ... Rihanna - <b>Sledgehammer</b>/<br>\nStar Trek Beyond/ILLUMINATI EXPOSED - Duration: 16:17.",
+      "cacheId": "eva54fYKd78J",
+      "formattedUrl": "https://www.youtube.com/watch?v=oPH03dnzneM",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=oPH03dnzneM",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "width": "283",
+            "height": "178",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3FIJY7gXCgfSgjtJDq1Htb9V-Y2uJnF5qpvlClck-gwNBfP7_SQZjvaw"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://i.ytimg.com/vi/oPH03dnzneM/maxresdefault.jpg",
+            "width": "1280",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "url": "http://www.youtube.com/channel/UCp5x5kxCgg_A220jNIsLyfA"
+          },
+          {
+            "url": "https://plus.google.com/104106795446889493717"
+          }
+        ],
+        "metatags": [
+          {
+            "title": "RIHANNA - SLEDGEHAMMER ILLUMINATI EXPOSED!",
+            "theme-color": "#e62117",
+            "og:site_name": "YouTube",
+            "og:url": "https://www.youtube.com/watch?v=oPH03dnzneM",
+            "og:title": "RIHANNA - SLEDGEHAMMER ILLUMINATI EXPOSED!",
+            "og:image": "https://i.ytimg.com/vi/oPH03dnzneM/maxresdefault.jpg",
+            "og:description": "RIHANNA - SLEDGEHAMMER ILLUMINATI EXPOSED!",
+            "al:ios:app_store_id": "544007664",
+            "al:ios:app_name": "YouTube",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=oPH03dnzneM&feature=applinks",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=oPH03dnzneM&feature=applinks",
+            "al:android:app_name": "YouTube",
+            "al:android:package": "com.google.android.youtube",
+            "al:web:url": "https://www.youtube.com/watch?v=oPH03dnzneM&feature=applinks",
+            "og:type": "video",
+            "og:video:url": "https://www.youtube.com/embed/oPH03dnzneM",
+            "og:video:secure_url": "https://www.youtube.com/embed/oPH03dnzneM",
+            "og:video:type": "text/html",
+            "og:video:width": "1280",
+            "og:video:height": "720",
+            "og:video:tag": "rihanna",
+            "fb:app_id": "87741124305",
+            "twitter:card": "player",
+            "twitter:site": "@youtube",
+            "twitter:url": "https://www.youtube.com/watch?v=oPH03dnzneM",
+            "twitter:title": "RIHANNA - SLEDGEHAMMER ILLUMINATI EXPOSED!",
+            "twitter:description": "RIHANNA - SLEDGEHAMMER ILLUMINATI EXPOSED!",
+            "twitter:image": "https://i.ytimg.com/vi/oPH03dnzneM/maxresdefault.jpg"
+          }
+        ],
+        "videoobject": [
+          {
+            "url": "https://www.youtube.com/watch?v=oPH03dnzneM",
+            "name": "RIHANNA - SLEDGEHAMMER ILLUMINATI EXPOSED!",
+            "description": "RIHANNA - SLEDGEHAMMER ILLUMINATI EXPOSED!",
+            "paid": "False",
+            "channelid": "UCp5x5kxCgg_A220jNIsLyfA",
+            "videoid": "oPH03dnzneM",
+            "duration": "PT14M36S",
+            "unlisted": "False",
+            "thumbnailurl": "https://i.ytimg.com/vi/oPH03dnzneM/maxresdefault.jpg",
+            "embedurl": "https://www.youtube.com/embed/oPH03dnzneM",
+            "playertype": "HTML5 Flash",
+            "width": "1280",
+            "height": "720",
+            "isfamilyfriendly": "True",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+            "interactioncount": "79293",
+            "datepublished": "2016-07-01",
+            "genre": "Music"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/oPH03dnzneM/maxresdefault.jpg"
           }
         ]
       }
