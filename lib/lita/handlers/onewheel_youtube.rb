@@ -7,7 +7,7 @@ module Lita
       config :google_api_key
       config :safe_search, required: false, default: 'medium'
 
-      route /^youtube\s+(.*)$/, :search, command: true
+      route /^youtube\s+(.*)$/i, :search, command: true
 
       def search(response)
         query = response.matches[0][0]
