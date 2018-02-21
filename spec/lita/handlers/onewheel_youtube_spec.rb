@@ -14,6 +14,8 @@ describe Lita::Handlers::OnewheelYoutube, lita_handler: true do
   end
 
   it { is_expected.to route_command('youtube something') }
+  it { is_expected.to route_command('y something') }
+  it { is_expected.to route_command('yt something') }
 
   it 'does neat youtubey things' do
     send_command 'youtube sledgehammer'

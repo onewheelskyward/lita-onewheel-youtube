@@ -8,6 +8,8 @@ module Lita
       config :safe_search, required: false, default: 'medium'
 
       route /^youtube\s+(.*)$/i, :search, command: true
+      route /^yt\s+(.*)$/i, :search, command: true
+      route /^y\s+(.*)$/i, :search, command: true
 
       def search(response)
         query = response.matches[0][0]
